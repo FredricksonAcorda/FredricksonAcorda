@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Fredrickson C. Acorda, a coding enthusiast with a passion for database management. I enjoy tackling complex problems and crafting elegant solutions. My tech journey began when I enrolled in the BS Information Technology program.
+I am Fredrickson C. Acorda, a coding enthusiast with a passion for database management. I constantly seek opportunities to expand my knowledge and skills, exploring emerging technologies. My tech journey began when I enrolled in the BS Information Technology program.
 
 ## Education
 
