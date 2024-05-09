@@ -16,6 +16,7 @@ I am Fredrickson C. Acorda, a coding enthusiast with a passion for database mana
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=870CC29FC0E259D86465FEE46D7B600FC33372A19EB1D3503DEC507D4E047812&fbclid=IwAR1Tn_n_iu3HRTRHsy8_Xw2SiNjy3blIEHWgeQs21mDnJPwP2QCe34cbxqY)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FAB8390B9DDCBD15688E45B2CE59B78519C22456470C26EF84E3A5D5ADC3EA64&fbclid=IwAR1Uxy8CzrYNt7KEhCE-Vvd6BjqSJhzejuYvalBzQRRiraGZa3-ExkOICyA)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/0407dd444e9a4ad8b5cb8d080f29c020?fbclid=IwAR08_E5jTQw9JgLBeOCDBjJtd7o3Mu)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/2da8a8dbfd194d28a64cd578641989c2) 
 
 ## Skills
 
