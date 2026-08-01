@@ -1,6 +1,6 @@
 # Hi, I'm Fredrickson C. Acorda 👋
 
-### Full-Stack Software Engineer | AI Integration Developer
+### Full-Stack Software Engineer | AI Integration Developer | AI Automation
 
 I'm a Full-Stack Software Engineer and fresh Information Technology graduate from New Era University, focused on building reliable web applications, AI-powered software, and practical developer tools.
 
