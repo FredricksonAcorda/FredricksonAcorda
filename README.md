@@ -155,7 +155,6 @@ October 2025 – April 2026
 
 ## 📫 Connect With Me
 
-- **GitHub:** [FredricksonAcorda](https://github.com/FredricksonAcorda)
 - **LinkedIn:** [Fredrickson C. Acorda](https://www.linkedin.com/in/fredrickson-acorda/)
 - **Email:** edrickacorda@gmail.com
 
